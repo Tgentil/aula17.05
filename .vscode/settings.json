@@ -1,0 +1,15 @@
+{
+    "java.project.sourcePaths": [
+        "Template",
+        "State",
+        "Observer",
+        "Null",
+        "Memento",
+        "Mediator",
+        "Iterator",
+        "Interpreter",
+        "Command",
+        "Chain_Of_Responsibility",
+        "Visitor"
+    ]
+}
